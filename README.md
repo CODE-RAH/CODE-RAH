@@ -1,12 +1,12 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> CODE RAH
+# 👋 CODE RAH
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:020617&text=CODE%20RAH&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Programming%20•%20Cybersecurity%20•%20Development&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:020617&text=CODE%20RAH&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Programming%20•%20Cybersecurity%20•%20Development&descAlignY=63&animation=fadeIn" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=برنامه‌نویسی+و+توسعه+نرم‌افزار;امنیت+سایبری+و+هک+اخلاقی;توسعه+بک‌اند+و+اتوماسیون;همیشه+در+حال+یادگیری+فناوری‌های+جدید" />
+### برنامه‌نویسی • امنیت سایبری • توسعه نرم‌افزار
 
 </div>
 
@@ -14,12 +14,13 @@
 
 # 💫 درباره ما
 
-```bash
-> تیم توسعه و امنیت سایبری CODE RAH
-> فعال در حوزه برنامه‌نویسی، هک اخلاقی و توسعه نرم‌افزار
-> علاقه‌مند به لینوکس، برنامه‌نویسی سطح پایین و امنیت شبکه
-> در حال یادگیری و ساخت پروژه‌های حرفه‌ای
-```
+تیم **CODE RAH** فعال در حوزه:
+
+* برنامه‌نویسی
+* امنیت سایبری
+* هک اخلاقی
+* توسعه نرم‌افزار
+* لینوکس و ابزارهای امنیتی
 
 ---
 
@@ -27,15 +28,7 @@
 
 <div align="center">
 
-### زبان‌های برنامه‌نویسی
-
-<img src="https://skillicons.dev/icons?i=python,js,cpp,c,cs,java,bash,html,css" />
-
-<br><br>
-
-### ابزارها و فناوری‌ها
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,mongodb,mysql,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,c,cs,java,bash,html,css,linux,git,github,docker,mongodb,mysql,vscode" />
 
 </div>
 
@@ -45,11 +38,11 @@
 
 <div align="center">
 
-| حوزه                | مهارت‌ها                        |
+| حوزه                | مهارت                           |
 | :------------------ | :------------------------------ |
-| توسعه بک‌اند        | Python • REST API • Node.js     |
+| توسعه بک‌اند        | Python • Node.js • REST API     |
 | امنیت سایبری        | هک اخلاقی • امنیت شبکه • لینوکس |
-| برنامه‌نویسی سیستمی | C • C++ • مدیریت حافظه          |
+| برنامه‌نویسی سیستمی | C • C++                         |
 | توسعه وب            | HTML • CSS • JavaScript         |
 | ابزارهای توسعه      | Git • GitHub • Docker           |
 
@@ -87,10 +80,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0f172a,100:020617" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,100:020617" width="100%" />
 
 ### 💻 CODE RAH
 
-*"کدنویسی فقط نوشتن برنامه نیست؛ ساختن آینده است."*
+کدنویسی فقط نوشتن برنامه نیست؛ ساختن آینده است.
 
 </div>
