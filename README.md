@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:020617&text=CODE%20RAH&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Programming%20•%20Cybersecurity%20•%20Development&descAlignY=63&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,100:020617&text=CODE%20RAH&fontColor=ffffff&fontSize=58&fontAlignY=40&desc=Programming%20•%20Cybersecurity%20•%20Development&descAlignY=63&animation=fadeIn" width="100%" />
 
 <br>
 
-### برنامه‌نویسی • امنیت سایبری • توسعه نرم‌افزار
+### برنامه‌نویسی • امنیت سایبری • هوش مصنوعی • آموزش تخصصی
 
 </div>
 
@@ -16,11 +16,11 @@
 
 تیم **CODE RAH** فعال در حوزه:
 
-* برنامه‌نویسی
-* امنیت سایبری
-* هک اخلاقی
-* توسعه نرم‌افزار
-* لینوکس و ابزارهای امنیتی
+* برنامه‌نویسی و توسعه نرم‌افزار
+* امنیت سایبری و هک اخلاقی
+* هوش مصنوعی و یادگیری ماشین
+* آموزش و تدریس تخصصی
+* توسعه سیستم‌های هوشمند و Embedded
 
 ---
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,c,cs,java,bash,html,css,linux,git,github,docker,mongodb,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp,c,cs,java,bash,html,css,linux,kali,git,github,docker,mongodb,mysql,arduino,raspberrypi" />
 
 </div>
 
@@ -38,13 +38,17 @@
 
 <div align="center">
 
-| حوزه                | مهارت                           |
-| :------------------ | :------------------------------ |
-| توسعه بک‌اند        | Python • Node.js • REST API     |
-| امنیت سایبری        | هک اخلاقی • امنیت شبکه • لینوکس |
-| برنامه‌نویسی سیستمی | C • C++                         |
-| توسعه وب            | HTML • CSS • JavaScript         |
-| ابزارهای توسعه      | Git • GitHub • Docker           |
+| حوزه                | مهارت‌ها                                        |
+| :------------------ | :---------------------------------------------- |
+| توسعه بک‌اند        | Python • REST API • Node.js                     |
+| امنیت سایبری        | Kali Linux • Network Security • Ethical Hacking |
+| هوش مصنوعی          | AI • ML • NLP • Computer Vision                 |
+| بینایی ماشین        | YOLO • OpenCV • Object Detection                |
+| Embedded Systems    | Arduino • ESP32 • Raspberry Pi                  |
+| شبکه                | Network • Linux • Automation                    |
+| برنامه‌نویسی سیستمی | C • C++                                         |
+| توسعه وب            | HTML • CSS • JavaScript                         |
+| آموزش               | تدریس برنامه‌نویسی و امنیت سایبری               |
 
 </div>
 
