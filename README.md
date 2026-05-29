@@ -1,19 +1,10 @@
 <div align="center" style="font-family: 'Vazirmatn', Tahoma, sans-serif; direction: rtl;">
 
-<!-- هدر گرافیکی و مینیمال -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&background=1f2328&height=200&section=header&text=CODE%20RAH%20%7C%20DEVELOPMENT%20TEAM&fontSize=35&fontAlignY=45&theme=dark" width="100%" />
+<!-- هدر متحرک با انیمیشن موج سینوسی زنده -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1f2328&height=160&section=header&text=CODE%20RAH&fontSize=50&fontAlignY=50&animation=twinkle&theme=dark" width="100%" />
 
-<br>
-
-<!-- بیوگرافی رسمی تیم با فونت وزیر -->
-<div align="right" style="padding: 10px; line-height: 2;">
-  <p align="center" style="font-size: 18px; color: #f0f6fc; font-weight: bold;">
-    پایگاه رسمی تیم توسعه و امنیت کد راه
-  </p>
-  <p align="center" style="font-size: 14px; color: #8b949e; max-width: 700px; margin: 0 auto;">
-    مجموعه‌ای تخصصی متشکل از توسعه‌دهندگان نرم‌افزار و متخصصین امنیت شبکه با هدف خلق راهکارهای هوشمند، توسعه زیرساخت‌های متن‌باز و ارائه آموزش‌های تخصصی در حوزه فناوری اطلاعات.
-  </p>
-</div>
+<!-- لایه گرافیکی متحرک (حس زنده بودن کدها) -->
+<img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%D8%AA%DB%8C%D9%85+%D8%AA%D9%81%DA%A9%D8%B1+%D9%88+%D8%AA%D9%88%D8%B3%D8%B9%D9%87+%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%D8%9B;%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%DB%8C%D9%86+%D8%A7%D9%85%D9%86%DB%8C%D8%AA+%D8%B4%D8%A8%DA%A3%D9%87+%D9%88+%D8%AA%D8%B3%D8%AA+%D9%86%D9%81%D9%84%D9%88%D8%B0%D9%86%D8%A8%D8%A7%D8%B1%D8%B3%DB%8C%D8%9B;%D8%AE%D9%84%D9%82+%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%D9%87%D8%A7%DB%8C+%D9%87%D9%85%D9%88%D8%A7%D8%B1+%D8%AF%D8%B1+%D9%85%D8%B3%DB%8C%D8%B1+%D9%81%D9%BE%D8%A7%D9%88%D8%B1%DB%8C%D8%8C" alt="Typing Effect" />
 
 ---
 
@@ -49,6 +40,11 @@
 | **Cybersecurity & Version Control** | <img src="https://img.shields.io/badge/Security-1f2328?style=flat-square&logo=linux&logoColor=red"> <img src="https://img.shields.io/badge/Git-1f2328?style=flat-square&logo=git&logoColor=F05033"> |
 
 </div>
+
+---
+
+<!-- خط گرافیکی متحرک انتهای صفحه (حس بارگذاری و جریان داده) -->
+<img src="https://kany.me/wave.svg" width="100%" height="20px" style="opacity: 0.5;" />
 
 </div>
 
