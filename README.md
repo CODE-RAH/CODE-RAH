@@ -3,25 +3,25 @@
 <!-- هدر متحرک با افکت نوری زنده -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1f2328&height=160&section=header&text=CODE%20RAH&fontSize=50&fontAlignY=50&animation=twinkle&theme=dark" width="100%" />
 
-<!-- افکت تایپ زنده و متحرک بدون غلط املایی -->
-<img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%D8%AA%DB%8C%D9%85+%D8%AA%D9%81%DA%A9%D8%B1+%D9%88+%D8%AA%D9%88%D8%B3%D8%B9%D9%87+%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%D9%8 Dil%3B;%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%DB%8C%D9%86+%D8%A7%D9%85%D9%86%DB%8C%D8%AA+%D8%B4%D8%A8%DA%A3%D9%87+%D9%88+%D8%AA%D8%B3%D8%AA+%D9%86%D9%81%D9%85%D9%88%D8%B0%D8%9B;%D8%AE%D9%84%D9%82+%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%D9%87%D8%A7%DB%8C+%D9%87%D9%85%D9%88%D8%A7%D8%B1+%D8%AF%D8%B1+%D9%85%D8%B3%DB%8C%D8%B1+%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C%D8%8F" alt="Typing Effect" />
+<!-- افکت تایپ زنده و متحرک کاملاً اصلاح شده و بدون خرابی -->
+<img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=%D8%AA%DB%8C%D9%85+%D8%AA%D9%81%DA%A9%D8%B1+%D9%88+%D8%AA%D9%88%D8%B3%D8%B9%D9%87+%D9%8...;%D9%85%D8%AA%D8%AE%D8%B5%D8%B5%DB%8C%D9%86+%D8%A7%D9%85%D9%86%DB%8C%D8%AA+%D8%B4%D8%A8%DA%A3%D9%87+%D9%8...;%D8%AE%D9%84%D9%82+%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%D9%87%D8%A7%DB%8C+%D9%87%D9%85%D9%88%D8%A7%D8%B1+..." alt="Code Rah Team" />
 
 ---
 
 ### 🌐 درگاه‌های ارتباطی رسانه کد راه
 
 <p align="center">
-  <a href="https://t.me/code_rah" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Telegram-1F2328?style=for-the-badge&logo=telegram&logoColor=26A69A" alt="Telegram" height="40">
+  <a href="https://t.me/code_rah" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-1F2328?style=for-the-badge&logo=telegram&logoColor=26A69A" alt="Telegram">
   </a>
-  <a href="https://instagram.com/code_rah" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Instagram-1F2328?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" height="40">
+  <a href="https://instagram.com/code_rah" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-1F2328?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
   </a>
-  <a href="https://web.rubika.ir/#/c/code_rah_ir1" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/arshiacomax/rubika-logo/main/rubika.png" alt="Rubika" height="40" style="vertical-align: middle;">
+  <a href="https://web.rubika.ir/#/c/code_rah_ir1" target="_blank">
+    <img src="https://img.shields.io/badge/Rubika-1F2328?style=for-the-badge&logo=googleplay&logoColor=7B1FA2" alt="Rubika">
   </a>
-  <a href="https://web.bale.ai/" target="_blank" style="margin: 0 10px;">
-    <img src="https://bale.ai/img/bale-logo.png" alt="Bale" height="40" style="vertical-align: middle;">
+  <a href="https://web.bale.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/Bale-1F2328?style=for-the-badge&logo=matrix&logoColor=00C853" alt="Bale">
   </a>
 </p>
 
@@ -43,10 +43,8 @@
 
 ---
 
-<!-- گراف متحرک و زنده سایبری در انتهای صفحه -->
-<p align="center">
-  <img src="https://wakatime.com/share/@CODE-RAH/bar.svg" alt="Activity Graph" width="100%" style="max-height: 100px; filter: invert(1); opacity: 0.7;" onerror="this.src='https://kany.me/wave.svg'">
-</p>
+<!-- خط انیمیشن موج متحرک و زنده پایدار -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1f2328&height=60&section=footer&theme=dark" width="100%" />
 
 </div>
 
